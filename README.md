@@ -1,1 +1,1 @@
-# Simple Regression on Height and Weight Data
+# Simple Linear Regression on Height and Weight Data
